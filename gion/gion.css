@@ -1,0 +1,26 @@
+body{
+    background-image: url('/images/gionbg.jpg');
+    text-align: center;
+    color: azure;
+}
+
+section{
+    padding: 75px;
+}
+
+.menu{
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color:#000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
